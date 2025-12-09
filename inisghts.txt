@@ -1,0 +1,11 @@
+Key Findings:
+- Overall default rate: (see README)
+- Credit Score < 600 corresponds to significantly higher default rates.
+- EMI-to-Income ratio > 0.45 is associated with sharp increase in defaults.
+- Past defaults raise probability of future default.
+
+Recommendations:
+1. Monitor EMI-to-income ratio and trigger early engagement if ratio crosses 0.35.
+2. Create a dynamic risk score combining EMI ratio, credit score, and past defaults.
+3. Offer EMI restructuring for high EMI ratio borrowers to reduce immediate default risk.
+4. Use dashboard KPIs for early warning and collections prioritization.
